@@ -7,6 +7,8 @@
 
 - ### Мой стэк технологий:
 - <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" />
+<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nestjs.svg"/>
 
 
 [<img align="left" alt="Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/Pank3d)
