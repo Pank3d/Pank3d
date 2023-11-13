@@ -6,7 +6,7 @@
 - Занимаюсь спортом, читаю книги, и не могу жить без WEB-разработки.
 
 - ### Мой стэк технологий:
-- ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff) ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
+- ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
 
 
 
