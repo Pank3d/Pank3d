@@ -5,7 +5,7 @@
 
 - Привет меня зовут Максим, я увлекаюсь frontend разработкой 
 - ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000) ![Python](https://img.shields.io/badge/-Python-%23DEA584?style=flat&logo=python&logoColor=000000) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23DEA584?style=flat&logo=javascript&logoColor=000000) ![Typecript](https://img.shields.io/badge/-Typecript-%23DEA584?style=flat&logo=typescript&logoColor=000000)
-
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
 
