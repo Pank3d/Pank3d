@@ -10,4 +10,4 @@
 
 
 
-[<img align="left" alt="Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/Pank3d)
+[<img align="left" alt="Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
